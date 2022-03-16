@@ -52,8 +52,6 @@ const Container = styled.div`
   align-items: center;
   justify-content: space-between;
   padding: 0 20px;
-
-  background: transparent;
 `;
 
 const Menu = styled.div`
